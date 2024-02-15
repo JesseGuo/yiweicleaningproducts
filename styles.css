@@ -101,3 +101,17 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.1688shop{
+    
+}
+
+a {
+    color: #007bff; /* Link color (blue) */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+a:hover {
+    color: #0056b3; /* Link color on hover */
+}
