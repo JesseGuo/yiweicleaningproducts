@@ -9,14 +9,13 @@ function scrollToContact() {
 
 // Sample product data (can be retrieved from a database)
 const products = [
-    { id: 1, name: "Product 1", price: 10, image: "./images/bissell.jpg", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { id: 2, name: "Product 2", price: 20, image: "./images/bissell.jpg", description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas." },
-    { id: 3, name: "Product 3", price: 15, image: "./images/bissell.jpg", description: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { id: 4, name: "Product 4", price: 25, image: "./images/bissell.jpg", description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." },
-    { id: 5, name: "Product 5", price: 30, image: "./images/bissell.jpg", description: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur." },
-    { id: 6, name: "Product 6", price: 35, image: "./images/bissell.jpg", description: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
-    { id: 7, name: "Product 7", price: 40, image: "./images/bissell.jpg", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { id: 8, name: "Product 8", price: 45, image: "./images/bissell.jpg", description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas." }
+    { id: 1, name: "Compatible with vileda Ultramax Spray Microfibre", price: 0.84, image: "./images/vileda.jpg", description: "Microfiber Floor Mop Pads Replacement for Vileda Ultramax Spray Microfibre" },
+    { id: 2, name: "Compatible with Swiffer Wet Jet", price: 0.63, image: "./images/swiffer.jpg", description: "Compatible with Swiffer Wetjet Wet Spray Mop" },
+    { id: 3, name: "Compatible with Sleeve VILEDA Spin & Clean 161822", price: 0.77, image: "./images/Sleeve VILEDA.jpg", description: "Compatible with Sleeve VILEDA Spin & Clean 161822" },
+    { id: 4, name: "Compatible with Vileda Ultramat/UltraMax XL", price: 0.98, image: "./images/UltraMax XL.jpg", description: "Compatible with Vileda Ultramat/UltraMax XL" },
+    { id: 5, name: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002", price: 0.67, image: "./images/Shark S7000AMZ.jpg", description: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002" },
+    { id: 6, name: "Compatible with  Rowenta RY7xxx, RY8xxx Replacement", price: 35, image: "./images/Rowenta.jpg", description: "Compatible with Rowenta RY7xxx, RY8xxx Replacement" },
+    
 ];
 
 // Function to display products
