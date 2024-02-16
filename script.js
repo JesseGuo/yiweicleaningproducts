@@ -14,7 +14,8 @@ const products = [
     { id: 3, name: "Compatible with Sleeve VILEDA Spin & Clean 161822", price: 0.77, image: "./images/Sleeve VILEDA.jpg", description: "Compatible with Sleeve VILEDA Spin & Clean 161822" },
     { id: 4, name: "Compatible with Vileda Ultramat/UltraMax XL", price: 0.98, image: "./images/UltraMax XL.jpg", description: "Compatible with Vileda Ultramat/UltraMax XL" },
     { id: 5, name: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002", price: 0.67, image: "./images/Shark S7000AMZ.jpg", description: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002" },
-    { id: 6, name: "Compatible with  Rowenta RY7xxx, RY8xxx Replacement", price: 35, image: "./images/Rowenta.jpg", description: "Compatible with Rowenta RY7xxx, RY8xxx Replacement" },
+    { id: 6, name: "Compatible with  Rowenta RY7xxx, RY8xxx Replacement", price: 1.95, image: "./images/Rowenta.jpg", description: "Compatible with Rowenta RY7xxx, RY8xxx Replacement" },
+    { id: 6, name: "Compatible with  Promist MAX Spray Mop", price: 0.97, image: "./images/Promist MAX Spray Mop.jpg", description: "Compatible with  Promist MAX Spray Mop" },
     
 ];
 
