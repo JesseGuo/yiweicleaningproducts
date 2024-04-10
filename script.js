@@ -16,6 +16,7 @@ const products = [
     { id: 5, name: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002", price: 0.67, image: "./images/Shark S7000AMZ.jpg", description: "Compatible with Shark S7000AMZ S7001 T2 T21 U6002" },
     { id: 6, name: "Compatible with  Rowenta RY7xxx, RY8xxx Replacement", price: 1.95, image: "./images/Rowenta.jpg", description: "Compatible with Rowenta RY7xxx, RY8xxx Replacement" },
     { id: 6, name: "Compatible with  Promist MAX Spray Mop", price: 0.97, image: "./images/Promist MAX Spray Mop.jpg", description: "Compatible with  Promist MAX Spray Mop" },
+    { id: 7, name: "Compatible with  Schenley steam mop", price: 0.5, image: "./images/schenley2.jpg", description: "Compatible with Schenley steam mop" },
     
 ];
 
