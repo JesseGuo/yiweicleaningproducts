@@ -17,8 +17,8 @@ const products = [
     { id: 6, name: "Compatible with  Rowenta RY7xxx, RY8xxx Replacement", price: 1.95, image: "./images/Rowenta.jpg", description: "Compatible with Rowenta RY7xxx, RY8xxx Replacement" },
     { id: 6, name: "Compatible with  Promist MAX Spray Mop", price: 0.97, image: "./images/Promist MAX Spray Mop.jpg", description: "Compatible with  Promist MAX Spray Mop" },
     { id: 7, name: "Compatible with  Schenley steam mop", price: 0.5, image: "./images/schenley2.jpg", description: "Compatible with Schenley steam mop" },
-    { id: 8, name: "Compatible with  Schenley steam mop", price: 1, image: "./images/Bissell SpinWave SmartSteam Scrubbing Steam Mop 3897A .jpeg", description: "Bissell SpinWave SmartSteam Scrubbing Steam Mop 3897A " },
-    
+    { id: 8, name: "Compatible with  Bissell SpinWave SmartSteam Scrubbing Steam Mop 3897A", price: 1, image: "./images/Bissell SpinWave SmartSteam Scrubbing Steam Mop 3897A .jpeg", description: "Bissell SpinWave SmartSteam Scrubbing Steam Mop 3897A " },
+    { id: 9, name: "Compatible with  Leifheit Profi Floor Wiper ", price: 1, image: "./images/leifheit.jpg", description: "Leifheit Profi Floor Wiper, 42" },
 ];
 
 // Function to display products
